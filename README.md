@@ -12,3 +12,11 @@
  you can read more about Growth Mindset from her : [Link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
 
  ![image](https://www.ntaskmanager.com/wp-content/uploads/2019/05/fixed-vs-growth-mindset-blog-header-2.png)
+
+
+ # Table of contents
+1. [Introduction](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+2. [mindset](/page1)
+    1. [growth mindset](#subparagraph1)
+    2. [fixed mentality](#subparagraph1)
+3. [Another paragraph](#paragraph2)
