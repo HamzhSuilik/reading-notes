@@ -15,8 +15,8 @@
 
 
  # Table of contents
-1. [Introduction](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-2. [mindset](/page1)
-    1. [growth mindset](#subparagraph1)
-    2. [fixed mentality](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+1. [Introduction](https://hamzhsuilik.github.io/reading-notes/page1)
+2. [mindset](https://hamzhsuilik.github.io/reading-notes/page2)
+    1. [growth mindset](https://hamzhsuilik.github.io/reading-notes/page3)
+    2. [fixed mentality](https://hamzhsuilik.github.io/reading-notes/page4)
+3. [images](https://hamzhsuilik.github.io/reading-notes/page5)
