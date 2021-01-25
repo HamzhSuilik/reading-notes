@@ -1,1 +1,5 @@
-![image](https://thumbs.dreamstime.com/z/fixed-mindset-vs-growth-concept-hand-drawing-success-black-marker-transparent-wipe-board-149297162.jpg)
+# SSSSSSS
+
+**kkkkkkkkkk**
+
+you can read more about Growth Mindset from her : [Link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).
