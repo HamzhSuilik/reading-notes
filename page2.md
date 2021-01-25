@@ -1,5 +1,6 @@
-# SSSSSSS
+# mindset
 
-**kkkkkkkkkk**
+1. [mindset](https://hamzhsuilik.github.io/reading-notes/page2)
+    1. [growth mindset](https://hamzhsuilik.github.io/reading-notes/page3)
+    2. [fixed mentality](https://hamzhsuilik.github.io/reading-notes/page4)
 
-you can read more about Growth Mindset from her : [Link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset).

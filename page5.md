@@ -1,17 +1,9 @@
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+# Images page
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+![image](https://miro.medium.com/max/781/1*ninBE6iYHSbeHy5y3MxiOg.png)
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+![image](https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2014/01/mindset.jpg?fit=600%2C315&ssl=1&w=640)
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+![image](https://safety4sea.com/wp-content/uploads/2019/04/fixed-growth-mindset.png)
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+![image](https://www.eschoolnews.com/files/2018/10/growth-mindset.jpg)
