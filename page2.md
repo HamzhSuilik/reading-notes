@@ -1,0 +1,1 @@
+![image](https://thumbs.dreamstime.com/z/fixed-mindset-vs-growth-concept-hand-drawing-success-black-marker-transparent-wipe-board-149297162.jpg)
