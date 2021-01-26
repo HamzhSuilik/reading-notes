@@ -25,7 +25,7 @@
 
 | 201 Reads                                                          | Title                                   |
 | ------------------------------------------------------------------ | --------------------------------------- |
-| [main page](https://hamzhsuilik.github.io/reading-notes/page1)     | Introduction                            |
-| [Read01](https://hamzhsuilik.github.io/reading-notes/page3)        | growth mindset                          |
+| [main page](https://hamzhsuilik.github.io/reading-notes/)          | Introduction                            |
+| [Read02a](https://hamzhsuilik.github.io/reading-notes/read2a)      | growth mindset                          |
 | [Read02](https://hamzhsuilik.github.io/reading-notes/page4)        | fixed mentality                         |
 | [Read03](https://hamzhsuilik.github.io/reading-notes/page5)        | images                                  |
