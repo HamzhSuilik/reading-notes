@@ -20,3 +20,11 @@
     1. [growth mindset](https://hamzhsuilik.github.io/reading-notes/page3)
     2. [fixed mentality](https://hamzhsuilik.github.io/reading-notes/page4)
 3. [images](https://hamzhsuilik.github.io/reading-notes/page5)
+
+
+| 201 Reads                                                          | Title                                   |
+| ------------------------------------------------------------------ | --------------------------------------- |
+| [main page](https://hamzhsuilik.github.io/reading-notes/page1)     | Introduction                            |
+| [Read01](https://hamzhsuilik.github.io/reading-notes/page3)        | growth mindset                          |
+| [Read02](https://hamzhsuilik.github.io/reading-notes/page4)        | fixed mentality                         |
+| [Read03](https://hamzhsuilik.github.io/reading-notes/page5)        | images                                  |
