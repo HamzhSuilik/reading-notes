@@ -24,11 +24,12 @@
 ### Logical operators are used to determine the logic between variables or values.
 
 
-| Operator                               | Description                                                        |
-| ---------------------------------------| ------------------------------------------------------------------ |
-| AND                                    | **&&**                                                             |
-| OR                                     | **|****|**                                                            |
-| NOT                                    | **!**                                                              |
+#### && (and)
+
+#### || (or)
+
+#### ! (not)
+
 
 ## Loop
 
