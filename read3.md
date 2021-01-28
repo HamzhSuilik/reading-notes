@@ -28,21 +28,21 @@ site owner. It is therefore very important to
 understand who your target audience is.
 
 
-What Your Visitors are
+- What Your Visitors are
 Trying to Achieve :
 Now that you know who your visitors are, you
 need to consider why they are coming. While
 some people will simply chance across your
 website, most will visit for a specific reason.
 
-What Information
+- What Information
 Your Visitors Need
 You know who is coming to your site and why
 they are coming, so now you need to work out
 what information they need in order to achieve
 their goals quickly and effectively
 
-How Often People Will
+- How Often People Will
 Visit Your Site
 Some sites benefit from being updated more
 frequently than others. Some information (such
