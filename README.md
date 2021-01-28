@@ -14,18 +14,12 @@
  ![image](https://www.ntaskmanager.com/wp-content/uploads/2019/05/fixed-vs-growth-mindset-blog-header-2.png)
 
 
- # Table of contents
-1. [Introduction](https://hamzhsuilik.github.io/reading-notes/page1)
-2. [mindset](https://hamzhsuilik.github.io/reading-notes/page2)
-    1. [growth mindset](https://hamzhsuilik.github.io/reading-notes/page3)
-    2. [fixed mentality](https://hamzhsuilik.github.io/reading-notes/page4)
-3. [images](https://hamzhsuilik.github.io/reading-notes/page5)
 
 
-
-| 201 Reads                                                          | Title                                   |
-| ------------------------------------------------------------------ | --------------------------------------- |
-| [main page](https://hamzhsuilik.github.io/reading-notes/)          | Introduction                            |
-| [Read02a](https://hamzhsuilik.github.io/reading-notes/read2a)      | growth mindset                          |
-| [Read02](https://hamzhsuilik.github.io/reading-notes/page4)        | fixed mentality                         |
-| [Read03](https://hamzhsuilik.github.io/reading-notes/page5)        | images                                  |
+| Title                                   || 201 Reads                                                          |
+| --------------------------------------- || ------------------------------------------------------------------ |
+| Markdown                                || [Read02a](https://hamzhsuilik.github.io/reading-notes/read2a)      |
+| Git                                     || [Read02b](https://hamzhsuilik.github.io/reading-notes/read2b)      |
+| HTML                                    || [Read03](https://hamzhsuilik.github.io/reading-notes/read3)        |
+| java script                             || [Read04](https://hamzhsuilik.github.io/reading-notes/read4)        |
+| Operators and Loops                     || [Read05](https://hamzhsuilik.github.io/reading-notes/read5)        |
