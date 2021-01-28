@@ -3,11 +3,21 @@
 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time , Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
 **there are three Types of version control:**
+
 - Local Version Control Systems :
+
+
 ![image](https://static.packt-cdn.com/products/9781849517522/graphics/7522_01_03.jpg)
+
+
 - Centralized Version Control Systems :
+
 ![image](https://lh5.googleusercontent.com/OLkIV5zi1otmabwR4v0LhvGekYUkktm5N96VgGHtv_axmUQdT0AG0JHowXQve01uf67w9Ewp7kDeH0MUw-m1fL_fPbVE20pPuTnErkEE_7kgWxTj98d6P6MoC535ntY8aw)
+
+
 - Distributed Version Control Systems :
+
+
 ![image](https://lh6.googleusercontent.com/VlwLz0TUa8q7aKfDYkCKU-51_Y1Op9DGauhbNVKi0HNCe1XB86EXMaYtulgP0NmakqhNlpd7vreaIJXAuIcQ0inENGESmTTfEErl8pe_GVhcBx0pOFHobLN1kWrAhWU2fA)
 
 
