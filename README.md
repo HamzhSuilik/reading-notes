@@ -24,11 +24,3 @@
 | java script                            | [Read04](https://hamzhsuilik.github.io/reading-notes/read4)        |
 | Operators and Loops                    | [Read05](https://hamzhsuilik.github.io/reading-notes/read5)        |
 
-
-|  Title                                               | 201 Reads                                                      |
-| ---------------------------------------------------- | ---------------------------------------                            |
-| Markdown                                             |                                         **                               |
-| Git                                                  | Introductory HTML                       |
-| HTML                                                 | Introductory HTML                       |
-| java script                                          | Introductory HTML                       |
-| Operators and Loops                                  | Introductory HTML                       |
