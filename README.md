@@ -16,10 +16,10 @@
 
 
 
-| Title                                   || 201 Reads                                                          |
-| --------------------------------------- || ------------------------------------------------------------------ |
-| Markdown                                || [Read02a](https://hamzhsuilik.github.io/reading-notes/read2a)      |
-| Git                                     || [Read02b](https://hamzhsuilik.github.io/reading-notes/read2b)      |
-| HTML                                    || [Read03](https://hamzhsuilik.github.io/reading-notes/read3)        |
-| java script                             || [Read04](https://hamzhsuilik.github.io/reading-notes/read4)        |
-| Operators and Loops                     || [Read05](https://hamzhsuilik.github.io/reading-notes/read5)        |
+| Title                                   | 201 Reads                                                          ||
+| --------------------------------------- | ------------------------------------------------------------------ ||
+| Markdown                                | [Read02a](https://hamzhsuilik.github.io/reading-notes/read2a)      ||
+| Git                                     | [Read02b](https://hamzhsuilik.github.io/reading-notes/read2b)      ||
+| HTML                                    | [Read03](https://hamzhsuilik.github.io/reading-notes/read3)        ||
+| java script                             | [Read04](https://hamzhsuilik.github.io/reading-notes/read4)        ||
+| Operators and Loops                     | [Read05](https://hamzhsuilik.github.io/reading-notes/read5)        ||
