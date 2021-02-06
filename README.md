@@ -3,7 +3,7 @@
 
  ![image](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
-**102 reading note :** [Link](https://hamzhsuilik.github.io/reading-notes/102-reading-note.md)
+**102 reading note :** [Link](https://hamzhsuilik.github.io/reading-notes/102-reading-note)
 
 
 
