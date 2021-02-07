@@ -10,7 +10,7 @@
 | Title                                  | 201 Reads                                                          |
 | ---------------------------------------| ------------------------------------------------------------------ |
 | read1                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-1)        |
-| read2                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-2)        |
+| read2 - Basics of HTML, CSS & JS       | [class-02](https://hamzhsuilik.github.io/reading-notes/class-02.md)|
 | read3                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-3)        |
 | read4                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-4)        |
 | read5                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-5)        |
