@@ -20,10 +20,10 @@
 
 ### To create sublist put a second list inside an <li> element .
 
-"***"
-"---"
-"********************************************"
-"--------------------------------------------"
+
+
+
+
 
 # Boxes :
 ### to control width and height you can use :
