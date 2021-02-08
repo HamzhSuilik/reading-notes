@@ -14,7 +14,7 @@
 
 ## Definition lists :
  **made up of a set of terms along with the definitions for each of those terms.**
-**<dl> : Ordered list tag is**
+**"<dl>" : Ordered list tag is**
 **<dt> : contain the term**
 **<dd> : contain the definition of term.**
 
@@ -47,10 +47,12 @@
 
 ### hidden :
 **hides any extra content**
+
 **overflow: hidden;**
 
 ### scroll 
 **adds a scrollbar to the box**
+
 **overflow: scroll;**
 
 
