@@ -11,8 +11,8 @@
 | ---------------------------------------| ------------------------------------------------------------------ |
 | read1                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-1)        |
 | read2 - Basics of HTML, CSS & JS       | [class-02](https://hamzhsuilik.github.io/reading-notes/class-02.md)|
-| read3                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-3)        |
-| read4                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-4)        |
+| read3                                  | [class-03](https://hamzhsuilik.github.io/reading-notes/class-03.md)|
+| read4                                  | [class-04](https://hamzhsuilik.github.io/reading-notes/class-04.md)|
 | read5                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-5)        |
 | read6                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-6)        |
 | read7                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-7)        |
