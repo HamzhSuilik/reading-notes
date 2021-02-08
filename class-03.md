@@ -55,4 +55,43 @@
 
 **overflow: scroll;**
 
+### Border
+**border-width can put its value by :**
+* pixels , example : border-width: 2px;
+* thin - medium - thick , example : border-width: thick;
+**border style options :**
+* solid
+* dotted
+* dashed
+* double
+* groove
+**border-color :**
+* border-color: #0088dd;
+
+**You can specify the width, style and color of a border in one property that : border**
+* border: 3px dotted #0088dd;
+
+### Margin
+**Margins sit outside the edge of the border**
+* margin: 20px;
+* margin: 1px 2px 3px 4px;
+
+
+### Padding
+**Padding is the space between the border of a box and any content contained within it.**
+* padding: 10px;
+* padding: 10px 5px 3px 1px;
+
+### to center a box on the page :
+* 1- set a width for the box : width: 300px;
+* 2- text-align: center;
+
+### visibility Boxes :
+property allows you to hide boxes from users **but It leaves a space where the element would have been**.
+**visibility can take two values:**
+* hidden : visibility: hidden;
+* visible : visibility: visible;
+
+### control border-image : border-image: url("images/dots.gif")
+### control border-radius : border-radius: 80px 50px;
 

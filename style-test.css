@@ -1,10 +1,16 @@
 div.box {
     height: 300px;
     width: 300px;
-    background-color: #bbbbaa;}
+
+       border-width: 10px;
+        border-color: black;}
     p {
-        min-height:10 px;
-        max-height: 50px;
-        font-size: 20px;
-        overflow: scroll;
-    background-color: #d9dd00;}
+        
+        font-size: 15px;
+        border-width: 10px;
+        border-color: black;
+        background-color: #d9dd00;
+        text-align: center;
+
+
+}
