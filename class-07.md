@@ -20,8 +20,10 @@
 
 ## Long Tables :
 * <thead> The headings of the table should sit inside the <thead> element.
-<tbody> The body should sit inside the <tbody> element.
-<tfoot> The footer belongs inside the <tfoot> element.
+* <tbody> The body should sit inside the <tbody> element.
+* <tfoot> The footer belongs inside the <tfoot> element.
 
 
-![image](https://github.com/HamzhSuilik/reading-notes/blob/main/image/Capture.PNG?raw=true)
+# ******
+
+![image](https://github.com/HamzhSuilik/reading-notes/blob/main/image/img1.PNG?raw=true)
