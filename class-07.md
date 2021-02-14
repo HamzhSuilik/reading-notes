@@ -24,4 +24,4 @@
 <tfoot> The footer belongs inside the <tfoot> element.
 
 
-![image info](./image/Capture.png)
+![image](https://github.com/HamzhSuilik/reading-notes/blob/main/image/Capture.PNG?raw=true)
