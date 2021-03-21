@@ -6,17 +6,17 @@
 
 ## Code 301
 
-| Title                                  | Link                                                               |
-| ---------------------------------------| ------------------------------------------------------------------ |
-| read1                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-1.md)      |
-| read2                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-2.md)      |
-| read3                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-3.md)      |
-| read4                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-4.md)      |
-| read5                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-5.md)      |
-| read6                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-6.md)      |
-| read7                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-7.md)      |
-| read8                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-8.md)      |
-| read9                                  | [Link](https://hamzhsuilik.github.io/reading-notes/read-9.md)      |
+| Title                                  | Link                                                                        |
+| ---------------------------------------| --------------------------------------------------------------------------- |
+| read1                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-1.md)      |
+| read2                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-2.md)      |
+| read3                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-3.md)      |
+| read4                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-4.md)      |
+| read5                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-5.md)      |
+| read6                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-6.md)      |
+| read7                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-7.md)      |
+| read8                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-8.md)      |
+| read9                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-9.md)      |
 
 ## Code 201
 
