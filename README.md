@@ -8,15 +8,15 @@
 
 | Title                                  | Link                                                                        |
 | ---------------------------------------| --------------------------------------------------------------------------- |
-| read1                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-1.md)      |
-| read2                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-2.md)      |
-| read3                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-3.md)      |
-| read4                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-4.md)      |
-| read5                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-5.md)      |
-| read6                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-6.md)      |
-| read7                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-7.md)      |
-| read8                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-8.md)      |
-| read9                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-9.md)      |
+| read1                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-1)         |
+| read2                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-2)         |
+| read3                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-3)         |
+| read4                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-4)         |
+| read5                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-5)         |
+| read6                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-6)         |
+| read7                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-7)         |
+| read8                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-8)         |
+| read9                                  | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-9)         |
 
 ## Code 201
 
@@ -24,9 +24,9 @@
 | Title                                  | Link                                                               |
 | ---------------------------------------| ------------------------------------------------------------------ |
 | read1                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-1)        |
-| read2 - Basics of HTML, CSS & JS       | [class-02](https://hamzhsuilik.github.io/reading-notes/class-02.md)|
-| read3                                  | [class-03](https://hamzhsuilik.github.io/reading-notes/class-03.md)|
-| read4                                  | [class-04](https://hamzhsuilik.github.io/reading-notes/class-04.md)|
+| read2 - Basics of HTML, CSS & JS       | [class-02](https://hamzhsuilik.github.io/reading-notes/class-02)   |
+| read3                                  | [class-03](https://hamzhsuilik.github.io/reading-notes/class-03)   |
+| read4                                  | [class-04](https://hamzhsuilik.github.io/reading-notes/class-04)   |
 | read5                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-5)        |
 | read6                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-6)        |
 | read7                                  | [Read1](https://hamzhsuilik.github.io/reading-notes/read-7)        |
