@@ -4,7 +4,6 @@
  ![image](https://github.com/HamzhSuilik/reading-notes/blob/main/image/code.jpg?raw=true)
 
 
-
 ## Code 301
 
 | Title                                  | Link                                                               |
