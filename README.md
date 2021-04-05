@@ -20,7 +20,7 @@
 | read10                                 | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-10)        |
 | read11-                                | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-11)        |
 | read12-                                | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-12)        |
-| read13                                 | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-13)        |
+| read13-                                | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-13)        |
 | read14                                 | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-14)        |
 | read15                                 | [Link](https://hamzhsuilik.github.io/reading-notes/301-read/read-15)        |
 
