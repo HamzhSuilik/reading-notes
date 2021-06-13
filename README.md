@@ -30,12 +30,6 @@
 | Read17                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-17)        |
 | Read18                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-18)        |
 | Read19                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-19)        |
-| Read20                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-20)        |
-| Read21                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-21)        |
-| Read22                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-22)        |
-| Read23                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-23)        |
-| Read24                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-24)        |
-| Read25                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-25)        |
 | Read26                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-26)        |
 | Read27                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-27)        |
 | Read28                                 | [Link](https://hamzhsuilik.github.io/reading-notes/401-read/read-28)        |
