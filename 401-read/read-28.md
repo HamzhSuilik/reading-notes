@@ -1,17 +1,15 @@
-# Custom User Model
-Django contain a professional built-in User model for authentication but the best practice for safety is using a custom user model. This provides us more flexibility than Django user model .
+# Working with forms
+Forms are a flexible mechanism for collecting user input directly from users and then save the new data in databases , Forms are safe way to sharing data with the server because they allow us to send data in POST requests
 
-The important note that you shouldn’t run migrate to configure the database before create the new custom user model .
+The form is defined in HTML as a collection of elements inside form tags, containing at least one input element of type="submit".
 
-Setup steps to create custom user model  :
-- update config/settings.py
-- create a new CustomUser model
-- create new UserCreation and UserChangeForm
-- update the admin
+Usually we use a button to display the data being sent from the form to the server , the The button sends an http request to the server to upload data
 
-### DjangoX
+Using the Post method in sending data is better than any other method, and this is more resistant to cross-site forgery request attacks.
 
-DjangoX is custom Django framework for new Django projects. It comes with a custom user model by default, email/password
-
-Installation DjangoX can be done by git or pip from GitHub Link :
-`https://github.com/wsvincent/djangox.git`
+the main things that Django's form handling does are:
+- Display the default form
+- Receive data from a submit request and bind it to the form
+- Clean and validate the data.
+- re-display the form in cause data is invalid
+- Finally redirect the user to another page.
